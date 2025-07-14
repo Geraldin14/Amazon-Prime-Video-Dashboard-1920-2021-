@@ -1,4 +1,3 @@
-# Amazon-Prime-Video-Dashboard-1920-2021-
 # 🎬 Amazon Prime Video Dashboard (1920 – 2021)
 
 📊 **Análisis visual e interactivo de la evolución del contenido en Amazon Prime Video durante un siglo**
